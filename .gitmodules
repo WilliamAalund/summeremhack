@@ -1,0 +1,4 @@
+[submodule "agbcc"]
+	url = https://github.com/pret/agbcc.git
+[submodule "pokeemerald-expansion"]
+	url = https://github.com/rh-hideout/pokeemerald-expansion.git
